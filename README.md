@@ -2,12 +2,15 @@
 A halloween ghost paranormal thingy, only exists if you go to Los Santos Cementery.
 
 ## How to Install?
+NOTE: MAKE SURE YOUR SERVER VERSION IS 0.3.DL OTHERWISE IT WON'T WORK!!!!!!!!!! uwu
+
 Put sp00ki.pwn into filterscript folder, then compile it.
 Edit your server.cfg like this
 
 ```
 filterscripts Sp00ki
 plugins streamer
+useartwork 1
 ```
 
 Don't forget install streamer and Visual C++ Redistribute 2015 in order to make it work.
