@@ -1,0 +1,2 @@
+AddSimpleModel(-1, 2406, -2000, "ofyst.dff", "ofyst.txd");
+AddSimpleModel(-1, 19379, -2001, "jumpscare.dff", "jumpscare.txd");
