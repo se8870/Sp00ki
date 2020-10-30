@@ -14,3 +14,9 @@ Don't forget install streamer and Visual C++ Redistribute 2015 in order to make 
 If you have issues just fix it yourself, lmao jk you can create issues or just help me fixing by make "pull requests"
 
 Ah if you're using my bare, ESC > Map > Right Click on "Los Santos Cementery" and it will teleport you immediately.
+
+## FAQ
+Q: Why using Object?
+A: I'm using "player object" to make sure the ghost only appears on single player (can be more if someone enters the cementery but still they can't see your ghost)
+
+
