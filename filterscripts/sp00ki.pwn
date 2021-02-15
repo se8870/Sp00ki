@@ -1,5 +1,9 @@
-// Sp00ki made by Se8870
-// Ofc i didn't own the model
+/*
+    sp00ki.pwn
+    By: Kirima
+
+    Thanks to the model <3
+*/
 
 #include <a_samp>
 #include <streamer>
@@ -44,7 +48,7 @@ new
 
 public OnFilterScriptInit() {
     print("------------------------------");
-    print("    Sp00ki Ghost | Se8870     ");
+    print("    Sp00ki Ghost | Kirima     ");
     print("------------------------------");
 
     GhostArea = CreateDynamicPolygon(arrGhostLocation);
